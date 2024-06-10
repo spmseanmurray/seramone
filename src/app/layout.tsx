@@ -5,7 +5,7 @@ import { Inter, Shrikhand } from "next/font/google";
 
 export const metadata: Metadata = {
   title: "Seramone",
-  description: "Manage your team cermonies",
+  description: "Manage your team ceremonies",
 };
 
 const inter = Inter({
